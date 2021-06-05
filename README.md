@@ -1,7 +1,7 @@
 # Customer Churn
 Performing PCA to reduce components and applying different classification techniques.
 
-**What is done in the project?**
+**What has been done in the project?**
 * Preprocess data (convert columns to appropriate formats, handle missing values, etc.)
 * Conduct appropriate exploratory analysis to extract useful insights (whether directly useful for business or for eventual modelling/feature engineering).
 * Derive new features.
